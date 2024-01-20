@@ -1,0 +1,1 @@
+{"0": "Ankle Boots", "1": "Ballerinas", "2": "Boots", "3": "tiger shark, Galeocerdo cuvieri", "4": "Espadrilles", "5": "Flip-Flops & Slides", "6": "Loafers", "7": "Mules", "8": "Sandals", "9": "Shoes", "10": "Slippers", "11": "Trainers" }

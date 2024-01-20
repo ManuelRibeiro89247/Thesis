@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ICDA + ISDA.unity
+    guid: c03dbb09f84b8f846bf9f1dbe04db1c2
+  - enabled: 0
+    path: Assets/Scenes/1.Start.unity
+    guid: be81c4a5abef07a43b48f231c8e22ca1
+  - enabled: 0
+    path: Assets/Scenes/2.ICDA FINAL.unity
+    guid: 269c3bc49721ff44da5eb58c8ec33f72
+  - enabled: 0
+    path: Assets/Scenes/3.ISDA FINAL.unity
+    guid: dce985e4694809d4281bae74d2b36f52
+  - enabled: 0
+    path: Assets/Scenes/2.ICDA.unity
+    guid: cf71e07517fe8834991fdd19bd6ef7b4
+  - enabled: 0
+    path: Assets/Scenes/3.ISDA.unity
+    guid: f1ba6629b8e724f4f865488d196c70aa
+  - enabled: 0
+    path: Assets/Scenes/New Scene.unity
+    guid: ddf0d7deaeec352489cbb411316f67cb
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8eb94d63132cdc14e9c1929bdac1e7c8, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 4b5f8829111cb774ea318276f1e62d61, type: 2}
