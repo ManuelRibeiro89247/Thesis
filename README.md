@@ -11,4 +11,12 @@ Send identified landmarks to an external server;
 Present the translation of said signs in written Portuguese.
 
 What is expected to happen if two users use the app at the same time:
+
 ![image](https://github.com/ManuelRibeiro89247/Thesis/assets/61391856/a9487297-84f4-4381-8ddb-7d7ddcf4659c)
+
+
+## Third-Party Libraries
+
+This project uses MediaPipeUnityPlugin to identify hands, pose and face landmarks. For more information on the plugin, please visit [GitHub repository](https://github.com/homuler/MediaPipeUnityPlugin).
+
+I would like to thank the developers for making the development of this app a reality!
