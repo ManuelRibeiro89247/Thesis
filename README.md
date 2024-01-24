@@ -14,7 +14,7 @@ What is expected to happen if two users use the app at the same time:
 
 ![image](https://github.com/ManuelRibeiro89247/Thesis/assets/61391856/a9487297-84f4-4381-8ddb-7d7ddcf4659c)
 
-##Demonstrations
+## Demonstrations
 
 Speech-to-Text (spoken Portuguese/Spanish/French -> written portuguese)
 
