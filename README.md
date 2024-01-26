@@ -1,4 +1,4 @@
-Unity app capable of:
+Unity scene capable of:
 
 Recognizing and transcribing spoken Portuguese to written Portuguese (Azure Cognitive Services - Speech Service/SpeeckSDK);
 
@@ -9,6 +9,10 @@ Identifying some face, hands and pose landmarks that together represent LGP (Lí
 Send identified landmarks to an external server;
 
 Present the translation of said signs in written Portuguese.
+
+## Path to Scene!
+
+Assets/Scenes/ICDA + ISDA.unity
 
 What is expected to happen if two users use the app at the same time:
 
