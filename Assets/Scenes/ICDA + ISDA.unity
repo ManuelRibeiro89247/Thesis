@@ -1164,7 +1164,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 185, y: -115}
+  m_AnchoredPosition: {x: 185, y: -65}
   m_SizeDelta: {x: 370, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &361004354
@@ -1898,7 +1898,7 @@ MonoBehaviour:
   Languages1: {fileID: 488323768}
   Languages2: {fileID: 1682973713}
   Languages3: {fileID: 1345022636}
-  SpeechServiceAPIKey: 2a2f3352a3ac47b992f5b7441631c4a0
+  SpeechServiceAPIKey: 
   SpeechServiceRegion: westeurope
   fromLanguageDropdown: {fileID: 1096674713}
   RecognizedText2: {fileID: 991561340}
@@ -3901,7 +3901,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 185, y: -165}
+  m_AnchoredPosition: {x: 185, y: -115}
   m_SizeDelta: {x: 370, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &903455310
@@ -4777,7 +4777,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 185, y: -65}
+  m_AnchoredPosition: {x: 185, y: -15}
   m_SizeDelta: {x: 370, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1099109368
@@ -35102,7 +35102,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &8451469530944944711
 Transform:
   m_ObjectHideFlags: 0
